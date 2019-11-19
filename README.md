@@ -1,1 +1,1 @@
-Program pomagający kasjerom zapamiętać obowiązujące w sklepie kody PLU. Został napisany w języku Java i jest przeznaczony do uruchamiania w konsoli systemowej.
+Program pomagający kasjerom zapamiętać obowiązujące w sklepie kody PLU. Został napisany w języku Java i jest przeznaczony do uruchamiania w konsoli systemowej. Współpracuje poprawnie z systemami operacyjnymi Windows oraz Linux.
